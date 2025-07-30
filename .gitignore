@@ -17,3 +17,6 @@ Thumbs.db
 *.jar
 *.war
 *.class
+*.logs
+**/logs/
+**/log/
