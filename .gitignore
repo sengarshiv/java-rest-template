@@ -1,1 +1,19 @@
-/bin/
+# .gitignore
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+build/
+target/
+out/
+
+# Optional: OS-specific
+.DS_Store
+Thumbs.db
+
+# Java build
+*.jar
+*.war
+*.class
